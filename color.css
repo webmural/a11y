@@ -4,12 +4,12 @@
 }
 
 :root {
-  color: seashell;
-  background: #322;
+  color: mistyrose;
+  background: #311;
 }
 
 :any-link {
-  color: hotpink;
+  color: #fa8bee;
 }
 
 :any-link:active {
@@ -18,11 +18,11 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    color: #322;
+    color: #311;
     background: seashell;
   }
 
   :any-link {
-    color: #11e;
+    color: #22e;
   }
 }
